@@ -1,0 +1,1 @@
+[03-Mar-2021 10:12:21 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/cirporg/public_html/wordpress/wp-content/themes/twentyseventeen/404.php on line 13

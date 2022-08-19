@@ -1,0 +1,3 @@
+[06-Dec-2018 11:47:19 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/cirporg/public_html/wp-content/themes/twentyseventeen/inc/template-tags.php on line 195
+[06-Dec-2018 22:38:13 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/cirporg/public_html/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[22-May-2019 12:01:01 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/cirporg/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
