@@ -1,6 +1,0 @@
-
-RewriteEngine on
-
-RewriteCond %{HTTP_HOST} ^cirp.org.tt$
-RewriteRule ^(.*)$ "http\:\/\/www\.cirp\.org\.tt\/$1" [R=301,L]
-
