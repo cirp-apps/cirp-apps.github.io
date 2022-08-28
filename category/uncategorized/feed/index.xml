@@ -1,0 +1,87 @@
+2601
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Caribbean ICT Research Programme</title>
+	<atom:link href="http://localhost/cirpwp/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description></description>
+	<lastBuildDate>Thu, 15 Mar 2018 12:16:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.23</generator>
+	<item>
+		<title>CIRP Youtube Page</title>
+		<link>./../../../cirp-youtube-page/index.html</link>
+		<comments>./../../../cirp-youtube-page/index.html#respond</comments>
+		<pubDate>Mon, 26 May 2014 01:45:16 +0000</pubDate>
+		<dc:creator><![CDATA[cirp_user]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=129</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<p><iframe width="900" height="506" src="https://www.youtube.com/embed/videoseries?list=PLPjhpkLp37CL5ziKBARJoDpxArz1yKyXJ" frameborder="0" allowfullscreen></iframe></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../cirp-youtube-page/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>mFisheries 2.0 in Tobago</title>
+		<link>./../../../mfisheries-2-0-in-tobago/index.html</link>
+		<comments>./../../../mfisheries-2-0-in-tobago/index.html#respond</comments>
+		<pubDate>Mon, 05 May 2014 21:34:25 +0000</pubDate>
+		<dc:creator><![CDATA[cirp_user]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=39</guid>
+		<description><![CDATA[The Caribbean ICT Research Programme has launched phase two of the mFisheries mobile application “mFisheries 2.0″ in Tobago on April 9th, 2014. The Early Adopters Exercise was launched with five (5) Tobago fishermen in the first phase of the exercise. Each fisher received one smart phone outfitted with the mFisheries mobile application...]]></description>
+				<content:encoded><![CDATA[<p>The <strong>Caribbean ICT Research Programme</strong> has launched phase two of the mFisheries mobile application “mFisheries 2.0″ in Tobago on April 9th, 2014. The Early Adopters Exercise was launched with five (5) Tobago fishermen in the first phase of the exercise. Each fisher received one smart phone outfitted with the mFisheries mobile application suite and a waterproof case for use at sea.</p>
+<p>Thanks to the collaboration with the Trinidad and Tobago Coast Guard and the Department of Fisheries in Tobago each fisher took part in a one day orientation session with a brief introduction to the mFisheries  application and an overview of the Navigation and Safety at Sea applications. The fishermen showed great enthusiasm in exploring the application for the first time. Routine trips to Tobago were done prior to the launch to facilitate open discussions with fisherfolk throughout the island to better understand their needs when going out to sea and the challenges they face. These interactions helped shape the mFisheries mobile application.</p>
+<p>In the coming weeks the Early Adopters are expected to attend a one day training session. This session will equip the fishermen with the technical skill to effectively use the application and its many features while at sea. An overview of the S.O.S application and Navigation application will provide the necessary feedback for members of the CIRP team as they continue their research in developing tools that can make a difference.</p>
+<p><a href="./../../../wp-content/uploads/2014/05/mFishereies-Launch.jpg"><img class="alignnone wp-image-25 size-large" src="./../../../wp-content/uploads/2014/05/mFishereies-Launch-1024x768.jpg" alt="mFishereies Launch" width="900" height="675" srcset="./../../../wp-content/uploads/2014/05/mFishereies-Launch-1024x768.jpg 1024w, ./../../../wp-content/uploads/2014/05/mFishereies-Launch-300x225.jpg 300w, ./../../../wp-content/uploads/2014/05/mFishereies-Launch-693x520.jpg 693w, ./../../../wp-content/uploads/2014/05/mFishereies-Launch-152x114.jpg 152w" sizes="(max-width: 900px) 100vw, 900px" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>./../../../mfisheries-2-0-in-tobago/feed/index.html</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>CIRP at ICT4AG</title>
+		<link>./../../../hello-world/index.html</link>
+		<comments>./../../../hello-world/index.html#comments</comments>
+		<pubDate>Mon, 05 May 2014 19:34:53 +0000</pubDate>
+		<dc:creator><![CDATA[cirp_user]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">./../../../index.html?p=1</guid>
+		<description><![CDATA[The Caribbean ICT Research Programme was invited to the ICT4Ag (ICT for Agriculture) conference in Rwanda in November of 2013 to showcase the mFisheries mobile application. &#8220;Another major example can be found in the mFisheries suite open source mobile and web applications. This mobile app is use in five fishing communities of...]]></description>
+				<content:encoded><![CDATA[<p>The Caribbean ICT Research Programme was invited to the ICT4Ag (ICT for Agriculture) conference in Rwanda in November of 2013 to showcase the mFisheries mobile application.</p>
+<p><span style="color: #666666;">&#8220;Another major example can be found in the </span><a style="color: #444444;" href="./../../../mfisheries/index.html" target="_blank">mFisheries</a><span style="color: #666666;"> suite open source mobile and web applications. This mobile app is use in five fishing communities of Trinidad and Tobago. Fisher folks have access to several services geared towards supporting their efforts in the industry. These include, Prices of fish varieties, GPS technology, a Compass, the “Got Fish/Need Fish” which connects fishermen to one another for market exchange as well as several other services…&#8221;</span></p>
+<p><em style="color: #666666;">Blogpost by Keron Bascombe, Social Reporter for the ICT4Ag Conference</em></p>
+<p><a title="ICT4Ag " href="http://blog.ict4ag.org/2013/10/hand-in-hand-icts-and-ard/" target="_blank">Read More</a></p>
+<p style="color: #666666;">As a social reporter, I knew I would get my answers at the <a style="color: #444444;" href="http://www.ict4ag.org/en/agenda/plug-play-day.html">Plug and Play day</a> of the <a style="color: #444444;" href="http://www.cta.int/en/">Technical Centre for Agriculture and Rural Cooperation</a>’s (CTA) <a style="color: #444444;" href="http://www.ict4ag.org/en/">#ICT4Ag13</a> conference and I was not disappointed. Participants, including myself, watched with gleaming interest as Daryl Samlal, software developer at the <a style="color: #444444;" href="./../../../index.html">Caribbean ICT Research Institute</a> showcased the enthralling app (well at least for me) –<a style="color: #444444;" href="./../../../mfisheries/index.php?option=com_content&amp;view=article&amp;id=118&amp;Itemid=94">mFisheries</a> that they are currently <a style="color: #444444;" href="./../../../mfisheries/index.html">piloting in Trinidad and Tobago</a>.</p>
+<p style="color: #666666;">Simply described, mFisheries is a large mobile application suite with <a style="color: #444444;" href="http://scsee.uwi.tt/mfisheries/map/reports/view/66">diverse functions</a>, one stop shop as I see it, all in one tool for the fisheries sector. It assists right from planning a fishing trip, provides weather updates, navigation, fishing techniques, marketing, evaluation &amp; analysis, safety and rescue at sea…&#8221;</p>
+<p style="color: #666666;"><em>Blog post by Riten Gosai, Social Reporter for the ICT4Ag Conference.</em></p>
+<p style="color: #666666;"><a href="http://blog.ict4ag.org/2013/11/fishy-business-mobile-phones-changing-landscapes-in-the-caribbean-fishing-industry/" target="_blank">Read More</p>
+<p></a></p>
+<p style="color: #666666;"><span style="color: #6e6361;">&#8220;Fisherfolk in the West Indies are benefiting from mFisheries, a suite of mobile and web applications developed at the University of the West Indies. The apps were designed to improve the efficiency, welfare and safety of small-scale fisheries. Using a smartphone, fisherfolk can access weather reports, navigational tools and training tips on first aid and emergency boat repairs. &#8220;They can also use an app to find out fish prices in different markets,&#8221; explained software developer Daryl Samlal, &#8220;and they can post what species they&#8217;ve caught and the quantities they&#8217;ve got while they are still out at sea.&#8221; Buyers using mFisheries can then get directly in touch with the fisherfolk and make a transaction. Launched and tested in Trinidad, this suite of applications could prove just as useful for small-scale fisherfolk in the Pacific, Africa and elsewhere…&#8221;</span></p>
+<p style="color: #666666;"><a href="http://www.ict4a.com/en/wf-menu-cpanel/homepage/2-ict4ag/3-join-us-in-kigali.html" target="_blank">Read More</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+ab
+]]></content:encoded>
+			<wfw:commentRss>./../../../hello-world/feed/index.html</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+0
+
