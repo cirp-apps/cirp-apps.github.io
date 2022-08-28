@@ -1,0 +1,47 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 27 Aug 2022 21:57:35 at http://localhost:8080/mfweb +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost:8080/mfweb -O1 "C:\Tablet Transfer\UwAmp\www\static\mF" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:03:16	Warning: 	File not parsed, looks like binary: localhost:8080/mfweb/libraries/expose/interface/fonts/fontawesome-webfont.woff?v=3.2.1
+22:03:16	Error: 	"Not Found" (404) at link localhost:8080/mfweb/modules/mod_xperttabs/assets/css/common.css (from localhost:8080/mfweb/templates/tx_appy/css/xperttabs.css)
+22:03:16	Warning: 	Link localhost:8080/mfweb/index.php/about/background/9-background/2-project-background?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+22:03:16	Warning: 	Link localhost:8080/mfweb/index.php/about/research-problem/10-uncategorised/research-problem/3-research-problem?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+22:03:16	Warning: 	Link localhost:8080/mfweb/index.php/about/objectives/11-project-objectives/4-project-objectives?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+22:03:16	Warning: 	Link localhost:8080/mfweb/index.php/about/mfisheries-at-sea?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+22:03:16	Warning: 	Link localhost:8080/mfweb/index.php/about/value-proposition/17-value-proposition/9-value-proposition?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+22:03:16	Warning: 	Link localhost:8080/mfweb/index.php/get-mfisheries/register-2/28-download-registration/28-register-2?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+22:03:16	Warning: 	Link localhost:8080/mfweb/index.php/get-mfisheries/understanding-sos/19-understanding-sos/11-understanding-sos?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+22:03:16	Warning: 	Link localhost:8080/mfweb/index.php/get-mfisheries/legal/29-legal/29-legal?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+22:03:16	Warning: 	Found for localhost:8080/mfweb/legal/
+22:03:16	Warning: 	File has moved from localhost:8080/mfweb/legal/ to http://cirp.org.tt/mfisheries/index.php/get-mfisheries/legal
+22:03:16	Warning: 	Link localhost:8080/mfweb/index.php/media-library/download/23-download/14-download?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+22:03:20	Warning: 	Link localhost:8080/mfweb/index.php/media-library/videos/26-videos/23-videos?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+22:03:20	Warning: 	Link localhost:8080/mfweb/index.php/grants?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+22:03:20	Error: 	"Not Found" (404) at link localhost:8080/wp-content/uploads/2014/08/Enagement-Platform.png (from localhost:8080/mfweb/index.php/grants)
+22:03:20	Error: 	"Not Found" (404) at link localhost:8080/wp-content/uploads/2014/08/RugB.png (from localhost:8080/mfweb/index.php/grants)
+22:03:20	Error: 	"Not Found" (404) at link localhost:8080/wp-content/uploads/2014/08/co-management.jpg (from localhost:8080/mfweb/index.php/grants)
+22:03:27	Warning: 	Link localhost:8080/mfweb/index.php/partners/list-of-partners/8-partners/1-partners?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+22:03:27	Warning: 	Link localhost:8080/mfweb/index.php/partners/related-websites/21-related-websites/13-related-websites?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+22:03:27	Warning: 	Link localhost:8080/mfweb/index.php/team/18-team/10-team?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+22:03:27	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link devcodepark.com/playground/joomla/mfisheries/components/com_remository/images/header.gif (from localhost:8080/mfweb/index.php/component/remository/Sample/Podcast-6/?Itemid=)
+22:03:29	Warning: 	Link localhost:8080/mfweb/index.php/component/remository/func-startdown/6/?Itemid= not scanned (follow robots meta tag)
+22:03:29	Warning: 	Link localhost:8080/mfweb/index.php/component/remository/func-startdown/5/?Itemid= not scanned (follow robots meta tag)
+22:03:29	Warning: 	Link localhost:8080/mfweb/index.php/component/remository/func-startdown/4/?Itemid= not scanned (follow robots meta tag)
+22:03:29	Warning: 	Link localhost:8080/mfweb/index.php/component/remository/func-startdown/3/?Itemid= not scanned (follow robots meta tag)
+22:03:29	Warning: 	Link localhost:8080/mfweb/index.php/component/remository/func-startdown/2/?Itemid= not scanned (follow robots meta tag)
+22:03:32	Warning: 	Link localhost:8080/mfweb/index.php/grants/2-uncategorised/24-test-gallery?tmpl=component&print=1&page= not scanned (follow robots meta tag)
+22:03:55	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link devcodepark.com/playground/joomla/mfisheries/components/com_remository/images/header.gif (from localhost:8080/mfweb/index.php/component/remository/Sample/Podcast-6/?Itemid=)
+22:03:55	Error: 	"Not Found" (404) at link localhost:8080/components/com_remository/images/button-1-left.png (from localhost:8080/mfweb/components/com_remository/remository.css)
+22:03:55	Error: 	"Not Found" (404) at link localhost:8080/components/com_remository/images/button-1-left.gif (from localhost:8080/mfweb/components/com_remository/remository.css)
+22:03:55	Error: 	"Not Found" (404) at link localhost:8080/components/com_remository/images/button-1-right.png (from localhost:8080/mfweb/components/com_remository/remository.css)
+22:03:55	Error: 	"Not Found" (404) at link localhost:8080/components/com_remository/images/button-1-right.gif (from localhost:8080/mfweb/components/com_remository/remository.css)
+22:03:55	Error: 	"Not Found" (404) at link localhost:8080/components/com_remository/images/wysiwyg-bg.png (from localhost:8080/mfweb/components/com_remository/remository.css)
+22:03:55	Error: 	"Not Found" (404) at link localhost:8080/components/com_remository/images/download_trans.gif (from localhost:8080/mfweb/components/com_remository/remository.css)
+22:03:55	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link devcodepark.com/playground/joomla/mfisheries/components/com_remository/images/header.gif (from localhost:8080/mfweb/index.php/component/remository/Sample/Podcast-6/?Itemid=)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 20 seconds : 216 links scanned, 201 files written (9836045 bytes overall) [9913341 bytes received at 26087 bytes/sec], 4.0 requests per connection
+(11 errors, 25 warnings, 0 messages)

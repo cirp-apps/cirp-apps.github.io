@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Download &amp; Register</title>
+		<description><![CDATA[]]></description>
+		<link>http://localhost:8080/mfweb/index.php/get-mfisheries/register-2?view=featured</link>
+		<lastBuildDate>Sun, 28 Aug 2022 02:01:36 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://localhost:8080/mfweb/index.php/get-mfisheries/register-2?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Download &amp; Register</title>
+			<link>http://localhost:8080/mfweb/index.php/get-mfisheries/register-2/28-download-registration/28-register-2</link>
+			<guid isPermaLink="true">http://localhost:8080/mfweb/index.php/get-mfisheries/register-2/28-download-registration/28-register-2</guid>
+			<description><![CDATA[<div class="feed-description"><p style="text-align: center;"> <img src="http://localhost:8080/mfweb/images/mFisheries icons tiled.jpg" border="0" alt="" width="679" height="333" /></p>
+<h3>What you Need</h3>
+<p>To download, install and run mFisheries@Sea, you need:</p>
+<ol>
+<li>Smartphone with <span style="font-size: 12.1599998474121px; line-height: 1.3em;">Android OS version 4.0 or later and the following sensors:</span></li>
+<ol>
+<li>Camera [required for Camera module]</li>
+<li>Global Positioning System (GPS) [required for Navigation module &amp; Location Tracking service]</li>
+<li>Compass [<span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;">required for Navigation module</span>]</li>
+</ol>
+<li>Available file storage space of 500MB or larger, especially if there is high usage of Camera module</li>
+<li>USB cable and PC, if not downloading from a mobile phone<span style="color: #666666; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold; line-height: 1.3em;"> </span></li>
+</ol>
+<h3>Download</h3>
+<p>Download the country-specific <span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;">mFisheries mobile application and resources to your Android phone or PC:</span></p>
+<ul>
+<li>mFisheries@Sea (Antigua)<span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;"> - Coming Soon! </span></li>
+<li>mFisheries@Sea (Grenada)<span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;"> - Coming Soon! </span></li>
+<li>mFisheries@Sea (St. Lucia)<span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;"> - Coming Soon!</span></li>
+<li>mFisheries@Sea (Trinidad)<span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;"> - Coming Soon!</span></li>
+<li>mFisheries@Sea (Tobago)<span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;"> - Coming Soon!</span></li>
+</ul>
+<h1><span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;"> </span><span style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.1599998474121px; font-weight: normal; line-height: 15.8079996109009px;">To transfer mFisheries to an Android phone from a PC:</span></h1>
+<ol style="color: #333333; font-family: Tahoma, Helvetica, Arial, sans-serif; font-size: 12.1599998474121px; font-weight: normal; line-height: 15.8079996109009px;">
+<li><span style="font-size: 12.1599998474121px; line-height: 1.3em;">Connect smartphone via USB cable to PC</span></li>
+<li><span style="font-size: 12.1599998474121px; line-height: 1.3em;">Transfer mFisheries folder to phone storage</span></li>
+</ol>
+<h3> <span style="line-height: 15.8079996109009px;">Install</span></h3>
+<p style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;"><span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;">To install mFisheries on an Android smartphone:</span></p>
+<ol style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;">
+<li><span style="font-size: 12.1599998474121px; line-height: 1.3em;">Uncompress the compressed ZIP file on the phone (using the phone's file manager application)</span></li>
+<li><span style="font-size: 12.1599998474121px; line-height: 1.3em;">Open mFisheries folder</span></li>
+<li><span style="font-size: 12.1599998474121px; line-height: 1.3em;">Tap on the APK file labelled mFisheries@Sea to install</span></li>
+</ol>
+<h3><span style="line-height: 15.8079996109009px;">Register</span></h3>
+<p><span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;">When the application opens on the phone after installation, you will see at the bottom of the screen a button indicating "Not registered".</span><span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;"> </span><span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;">To register, click on this button, complete and submit the registration form. </span><span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;">An mFisheries user account is created on registration. </span></p>
+<p><span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;">Registration is necessary </span><span style="font-size: 12.1599998474121px; line-height: 1.3em;">for modules which require </span><span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;">user-specific information</span><span style="font-size: 12.1599998474121px; line-height: 1.3em;">. </span></p>
+<p style="padding-left: 30px;">Modules that require registration:</p>
+<ul>
+<li><span style="font-size: 12.1599998474121px; line-height: 1.3em;"><img src="http://localhost:8080/mfweb/images/button_navigation.png" border="0" width="65" height="48" style="border: 0;" /> Navigation: when mFisheries tracking is enabled, <span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;"> a prescribed emergency response agency</span> may identify your tracks on a Web portal</span></li>
+<li><span style="font-size: 12.1599998474121px; line-height: 1.3em;"><img src="http://localhost:8080/mfweb/images/button_camera.png" border="0" width="65" height="48" style="border: 0;" /> Camera: a personal mFisheries Web-based user's Portal features your date-, time- and location-stamped photos</span></li>
+<li><span style="font-size: 12.1599998474121px; line-height: 1.3em;"><img src="http://localhost:8080/mfweb/images/button_alert.png" border="0" width="65" height="48" style="border: 0;" /> Alerts: <span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;">your identity is sent </span>to others in prescribed groups when you broadcast an amber alert</span><span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;"> </span></li>
+<li><span style="font-size: 12.1599998474121px; line-height: 1.3em;"><img src="http://localhost:8080/mfweb/images/button_sos.png" border="0" width="65" height="48" style="border: 0;" /> SOS: </span><span style="font-size: 12.1599998474121px; line-height: 1.3em;"><span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;">your identity is sent </span>to a prescribed emergency response agency and personal contacts when you initiate an SOS</span></li>
+</ul>
+<p style="padding-left: 30px;">Modules that do not require registration:</p>
+<ul>
+<li><span style="font-size: 12.1599998474121px; line-height: 1.3em;"><img src="http://localhost:8080/mfweb/images/button_navigation.png" border="0" width="65" height="48" /> Navigation: though tracking requires registration, other navigation functions such as compass, location logging &amp; retrieval, etc may be used without registration  </span></li>
+<li><span style="font-size: 12.1599998474121px; line-height: 1.3em;"><img src="http://localhost:8080/mfweb/images/button_weather.png" border="0" alt="" width="65" height="48" /> </span><span style="font-size: 12.1599998474121px; line-height: 15.8079996109009px;">Weather</span></li>
+<li><span style="font-size: 12.1599998474121px; line-height: 1.3em;"><img src="http://localhost:8080/mfweb/images/button_information.png" border="0" width="65" height="48" style="border: 0;" /> Info</span></li>
+</ul>
+<p style="padding-left: 30px;"><span style="font-size: 12.1599998474121px; line-height: 1.3em;"> </span></p>
+<p> </p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"> </p>
+<div style="float: left;">
+<p> </p>
+</div></div>]]></description>
+			<author>kevon.andrews@sta.uwi.edu (mFisheries Admin)</author>
+			<category>Featured</category>
+			<category>Download &amp; Registration</category>
+			<pubDate>Wed, 14 May 2014 20:03:43 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Research Problem</title>
+		<description><![CDATA[]]></description>
+		<link>http://localhost:8080/mfweb/index.php/about/research-problem?view=featured</link>
+		<lastBuildDate>Sun, 28 Aug 2022 01:59:46 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://localhost:8080/mfweb/index.php/about/research-problem?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Research Problem</title>
+			<link>http://localhost:8080/mfweb/index.php/about/research-problem/10-uncategorised/research-problem/3-research-problem</link>
+			<guid isPermaLink="true">http://localhost:8080/mfweb/index.php/about/research-problem/10-uncategorised/research-problem/3-research-problem</guid>
+			<description><![CDATA[<div class="feed-description"><p><span style="font-size: 10pt; line-height: 15.6pt;"><img src="http://localhost:8080/mfweb/images/BannerIslands.jpg" border="0" alt="" /></span></p>
+<p><span style="font-size: 10pt; line-height: 15.6pt;"> </span></p>
+<p><span style="line-height: 1.3em;">The empirical questions central to the overall mFisheries research exercises are:</span></p>
+<p><span style="line-height: 1.3em;"> </span></p>
+<ol style="font-family: Helvetica, Arial, sans-serif;">
+<li style="margin-bottom: 5px;">
+<p>How can the ubiquitous mobile phone be used to solve known inefficiencies in communications which impose unnecessary limitations in earning capacity and social development among low income Caribbean earners?</p>
+</li>
+<li style="margin-bottom: 5px;">
+<p>How can Caribbean capacity be built to engage communities of low income earners in order to collaboratively design, develop, deploy and evaluate applicable mobile solutions?</p>
+<p> </p>
+</li>
+</ol>
+<p>Very many subsidiary research questions flow from these overarching ones. These include: How could mobile technology be used to support and sustain a human network within the <strong>small-scale fishing sector</strong>? How could data relevant to the community of interest inform the design of mobile applications to improve livelihoods through increased economic activity and efficiency at the bottom of the pyramid? How could the mobile phone be used to indulge best practices and encourage cycles of use in the small-scale fishing sector?</p>
+<p>Prior to November 2009, reports conducted randomly within the fishing sector by various interest groups, although insufficiently benchmarked, have suggested that the penetration of the mobile phone among local fisher folk has been very high.</p>
+<p>Even though a rise in technology use and mobile penetration in Trinidad and Tobago has been evident, there exists little by way of case study resources, documented methodology and process mapping. This has hindered the capability of policy-makers and stakeholders to make transformational changes and to develop informed frameworks within which various telecommunications opportunities can be harnessed for the development of the sector.</p>
+<p>To a large extent, the <strong>m-Fisheries</strong> research project has arisen from the dearth of reliable and relevant quantitative and qualitative data regarding the small-scale fishing industry and ICT indicators on the usage and impact of mobile communication services on human and economic development in the low-income Caribbean. mFisheries applies and documents greater richness and uniformity in the gathering and analysis of empirical data. It also demonstrates application of the knowledge so gained, to the design, development and deployment of innovative mobile solutions for small scale fisher folk in Trinidad and Tobago.</p>
+<p><img src="http://localhost:8080/mfweb/images/Anchor Pin 200 by 200.png" border="0" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p></div>]]></description>
+			<author>rishmahansil@gmail.com (Rishma)</author>
+			<category>Featured</category>
+			<category>Research Problem</category>
+			<category>Uncategorised</category>
+			<pubDate>Wed, 14 May 2014 05:57:50 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

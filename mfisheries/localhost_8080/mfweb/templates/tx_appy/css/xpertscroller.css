@@ -1,0 +1,175 @@
+.clearfix,
+.clear {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after,
+.clear:before,
+.clear:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after,
+.clear:after {
+  clear: both;
+}
+.hide-text {
+  font: 0/0 a;
+  color: transparent;
+  text-shadow: none;
+  background-color: transparent;
+  border: 0;
+}
+.input-block-level {
+  display: block;
+  width: 100%;
+  min-height: 30px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.clearfix {
+  *zoom: 1;
+}
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: "";
+  line-height: 0;
+}
+.clearfix:after {
+  clear: both;
+}
+.scroller {
+  position: relative;
+  overflow: hidden;
+}
+.scroller .items {
+  position: absolute;
+  clear: both;
+}
+.item:hover img {
+  opacity: 0.7;
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+}
+.padding {
+  padding: 10px;
+}
+.scroller .item {
+  padding: 0;
+}
+.item h4 {
+  font-size: 15px;
+  margin: 0;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+.item h4 a {
+  text-decoration: none;
+}
+.xs_intro {
+  padding: 0 15px;
+  padding-bottom: 15px;
+}
+.item h4,
+.xs_intro {
+  background: #fff;
+}
+.xs_intro {
+  border-radius: 0 0 4px 4px;
+}
+img.left {
+  float: left;
+  margin-right: 15px;
+}
+img.right {
+  float: right;
+  margin-left: 15px;
+}
+.scroller .items .active {
+  position: relative;
+  cursor: default;
+}
+.cloned {
+  display: none;
+}
+a.browse {
+  display: inline-block;
+  width: 34px;
+  height: 29px;
+  cursor: pointer;
+}
+.basic_h .items .pane {
+  float: left;
+}
+.basic_h .pane .item {
+  float: left;
+}
+.basic_h .scroller {
+  display: inline-block;
+  vertical-align: top;
+}
+.basic_h a.next {
+  clear: right;
+  margin-right: 0px;
+}
+.basic_h a.prev {
+  margin-left: 0px;
+}
+a.disabled {
+  visibility: hidden !important;
+}
+.navi {
+  height: 24px;
+  margin: 3px 0;
+  position: absolute;
+  top: 22px;
+  right: 25px;
+}
+.navi a {
+  width: 9px;
+  height: 12px;
+  margin: 0 1px;
+  display: inline-block;
+  vertical-align: top;
+  font-size: 1px;
+  cursor: pointer;
+}
+.navi a:hover {
+  background-position: 0 0;
+}
+.navi a.active {
+  background-position: 0 0;
+}
+.prev.browse.left,
+.next.browse.left {
+  position: absolute;
+}
+.prev.browse.left {
+  right: 95px;
+  bottom: 270px;
+}
+.next.browse.left {
+  right: 62px;
+  bottom: 270px;
+}
+.prev.browse.left:before {
+  content: "\f104";
+  font-size: 20px;
+  font-family: fontAwesome;
+  background: #fff;
+  padding: 5px 10px;
+  border-radius: 2px;
+}
+.basic_h a.next:before {
+  content: "\f105";
+  font-size: 20px;
+  font-family: fontAwesome;
+  background: #fff;
+  padding: 5px 10px;
+  border-radius: 2px;
+}

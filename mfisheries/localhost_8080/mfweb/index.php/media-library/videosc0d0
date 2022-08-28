@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Videos</title>
+		<description><![CDATA[]]></description>
+		<link>http://localhost:8080/mfweb/index.php/media-library/videos?view=featured</link>
+		<lastBuildDate>Sun, 28 Aug 2022 02:02:42 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://localhost:8080/mfweb/index.php/media-library/videos?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Videos</title>
+			<link>http://localhost:8080/mfweb/index.php/media-library/videos/26-videos/23-videos</link>
+			<guid isPermaLink="true">http://localhost:8080/mfweb/index.php/media-library/videos/26-videos/23-videos</guid>
+			<description><![CDATA[<div class="feed-description"><p>Introduction to mFisheries :</p>
+<p> </p>
+<p><span style="color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;">{mp4}MFisheries-Introduction{/mp4} </span></p>
+<p><span style="color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;"> </span></p>
+<p><span style="color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;">mFisheries 2.0 :</span></p>
+<p><span style="color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;"><span style="font-family: arial, sans, sans-serif; font-size: 12px; line-height: normal;">{youtube}</span>dasTL7NKCkY<span style="font-family: arial, sans, sans-serif; font-size: 12px; line-height: normal;">{/youtube}</span></span></p>
+<p><span style="color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;"><span style="font-family: arial, sans, sans-serif; font-size: 12px; line-height: normal;"> </span></span></p>
+<p><span style="color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;"><span style="font-family: arial, sans, sans-serif; font-size: 12px; line-height: normal;">mFisheries Safety at Sea :</span></span></p>
+<p><span style="color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;"><span style="font-family: arial, sans, sans-serif; font-size: 12px; line-height: normal;"><span>{youtube}0gkMesN0AQw</span><span>{/youtube}</span></span></span></p>
+<p><span style="color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;"><span style="font-family: arial, sans, sans-serif; font-size: 12px; line-height: normal;"> </span></span></p></div>]]></description>
+			<author>rishmahansil@gmail.com (Rishma)</author>
+			<category>Featured</category>
+			<category>Videos</category>
+			<pubDate>Thu, 29 May 2014 20:47:08 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>List of Partners</title>
+		<description><![CDATA[]]></description>
+		<link>http://localhost:8080/mfweb/index.php/partners/list-of-partners?view=featured</link>
+		<lastBuildDate>Sun, 28 Aug 2022 02:02:54 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://localhost:8080/mfweb/index.php/partners/list-of-partners?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Partners</title>
+			<link>http://localhost:8080/mfweb/index.php/partners/list-of-partners/8-partners/1-partners</link>
+			<guid isPermaLink="true">http://localhost:8080/mfweb/index.php/partners/list-of-partners/8-partners/1-partners</guid>
+			<description><![CDATA[<div class="feed-description"><p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;">UWI's mFisheries Team is deeply indebted to the following:</p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"> </p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"><a href="http://www.idrc.ca/" target="_blank" style="color: #135cae;"><strong>International Development Research Centre</strong></a>, IDRC, for supporting the Caribbean ICT Research Programme, 2009/ 2011, of which mFisheries is a component;</p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"> </p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"><a href="http://www.sidctt.com/" target="_blank" style="color: #135cae;"><strong>Seafood Industry Development Company ltd</strong></a>, SIDC, which has partnered with the mFisheries Team to reach and maintain contact with fisherfolk communities around Trinidad and Tobago; and which shares our Team's vision of increased operational efficiency and richer access to information resources for local fisherfolk;</p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"><strong> </strong></p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"><a href="http://dlsecretariat.spaces.live.com/default.aspx" target="_blank" style="color: #135cae;"><strong>Distance Learning Secretariat</strong></a>, DLS, of the Ministry of Science, Technology and Tertiary Education, which approached the Department of Electrical and Computer Engineering for assistance with mobile-based training for local fisher folk and, through this, established the seed for the mFisheries project. DLS continues to collaborate with the mFisheries team to contemplate meaningful mobile interventions into the livelihoods of small scale Caribbean fisher folk and to produce professional recordings for mFisheries Training Companion content;</p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"> </p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"><a href="http://www.cftdi.edu.tt/home/" target="_blank" style="color: #135cae;"><strong>Caribbean Fisheries Training and Development Institute</strong></a>, CFTDI, which has provided invaluable support for the quantitative and qualitative field work exercises; and which continues to collaborate with the mFisheries team to contemplate meaningful mobile interventions into the livelihoods of small scale Caribbean fisher folk;</p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"> </p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"><a href="http://www.nic.tt/" target="_blank" style="color: #135cae;"><strong><span style="color: #0066cc;">Trinidad and Tobago Network Information Centre</span></strong></a>, TTNIC, which sponsors the hosting of the mFisheries site and has sponsored several months of a Research Assistant post used to, among other things, acquire, process and post still and video coverage of the livelihoods of small scale fisher folk in Trinidad and Tobago. This media documentary has been critical to gaining baseline insight into the (i) challenges faced by small scale fisher folk in Trinidad and Tobago and into (ii) the opportunities for productive mobile interventions;</p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"> </p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"><a href="http://nextlab.mit.edu/" target="_blank" style="color: #135cae;"><strong>MIT NextLab</strong></a> which has guided the design and development methodology used to contemplate and implement mFisheries applications on smart phones and whose cloud services platform the mFisheries applications are built;</p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"> </p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"><a href="http://m-survey.org/index.php" target="_blank" style="color: #135cae;"><strong>mSurvey</strong></a> Team which facilitates the acquisition, visualization and analysis of regular feedback from mFisheries Field Trial participants on its mSuvey SMS platform;</p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"> </p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"><a href="http://www.ttdf.mil.tt/ttcg/index.html" target="_blank" style="color: #135cae;"><strong>The Trinidad and Tobago Coast Guard</strong></a><strong> </strong>which has kindly agreed to provide critical support for the aspects of mFisheries that relate to saftey at sea;</p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"> </p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"><a href="http://www.bg-group.com/OurBusiness/WhereWeOperate/Pages/TrinidadandTobago.aspx" target="_blank" style="color: #135cae;"><strong>BGTT</strong></a> and <a href="http://www.digiceltt.com/" target="_blank" style="color: #135cae;"><strong>Digicel</strong> <strong>Trinidad and Tobago</strong></a> which have provided critical resources in support of mFisheries Pre- and Full Field Trial deployments.</p>
+<p> </p></div>]]></description>
+			<author>rishmahansil@gmail.com (Rishma)</author>
+			<category>Featured</category>
+			<category>Partners</category>
+			<pubDate>Wed, 14 May 2014 05:46:14 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

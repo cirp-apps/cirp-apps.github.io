@@ -1,0 +1,351 @@
+.parallax-slider {
+  padding: 40px 20px 40px;
+  position: relative;
+  overflow: hidden;
+  -webkit-transition: background-position .4s ease-in-out;
+  -moz-transition: background-position 0.4s ease-in-out;
+  -o-transition: background-position 0.4s ease-in-out;
+  -ms-transition: background-position 0.4s ease-in-out;
+  transition: background-position .4s ease-in-out;
+}
+.parallax-slider:hover .ps-arrows-prev:before {
+  -webkit-animation: slide-left-fixed 0.1s ease-in-out;
+  animation: slide-left-fixed 0.1s ease-in-out;
+  -webkit-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+.parallax-slider:hover .ps-arrows-next:before {
+  -webkit-animation: slide-right-fixed 0.1s ease-in-out;
+  animation: slide-right-fixed 0.1s ease-in-out;
+  -webkit-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+.ps-slide {
+  display: none;
+}
+.ps-slide .ps-title {
+  font-size: 30px;
+  line-height: 42px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+.ps-slide .ps-intro {
+  margin: 20px 0;
+}
+.ps-slide .ps-title,
+.ps-slide .ps-intro {
+  max-width: 60%;
+}
+.ps-slide .ps-image {
+  text-align: right;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  max-width: 40%;
+}
+.ps-slide .ps-readmore {
+  margin-top: 40px;
+}
+.ps-slide-current {
+  display: block;
+}
+.ps-arrows {
+  font-family: "FontAwesome";
+  vertical-align: middle;
+  font-size: 30px;
+  background: #fff;
+  cursor: pointer;
+}
+.ps-arrows .ps-arrows-prev:before,
+.ps-arrows .ps-arrows-next:before {
+  position: absolute;
+  bottom: 10%;
+  margin-top: -25px;
+  opacity: 0;
+}
+.ps-arrows .ps-arrows-prev:before {
+  content: "\f104";
+  left: 20px;
+  background: #fff;
+  padding: 10px 15px;
+  border-radius: 2px;
+}
+.ps-arrows .ps-arrows-next:before {
+  content: "\f105";
+  left: 6%;
+  background: #fff;
+  padding: 10px 15px;
+  border-radius: 2px;
+}
+.parallax-slider:hover .ps-arrows-prev:before,
+.parallax-slider:hover .ps-arrows-next:before {
+  opacity: 1;
+}
+.ps-slide-current .ps-title,
+.ps-slide-current .ps-intro,
+.ps-slide-current .ps-readmore {
+  opacity: 1;
+}
+.ps-slide-current .ps-image {
+  opacity: 1;
+}
+.ps-dots {
+  display: none;
+  text-align: center;
+}
+.ps-0.ps-slide-fromright .ps-title,
+.ps-3.ps-slide-fromright .ps-title,
+.ps-6.ps-slide-fromright .ps-title {
+  -webkit-animation: slide-left .3s linear 0.5s both;
+  -moz-animation: slide-left .3s linear 0.5s both;
+  -o-animation: slide-left .3s linear 0.5s both;
+  animation: slide-left .3s linear 0.5s both;
+}
+.ps-0.ps-slide-fromright .ps-intro,
+.ps-3.ps-slide-fromright .ps-intro,
+.ps-6.ps-slide-fromright .ps-intro {
+  -webkit-animation: slide-left .2s linear 1s both;
+  -moz-animation: slide-left .2s linear 1s both;
+  -o-animation: slide-left .2s linear 1s both;
+  animation: slide-left .2s linear 1s both;
+}
+.ps-0.ps-slide-fromright .ps-readmore,
+.ps-3.ps-slide-fromright .ps-readmore,
+.ps-6.ps-slide-fromright .ps-readmore {
+  -webkit-animation: slide-left .1s linear 1.5s both;
+  -moz-animation: slide-left .1s linear 1.5s both;
+  -o-animation: slide-left .1s linear 1.5s both;
+  animation: slide-left .1s linear 1.5s both;
+}
+.ps-0.ps-slide-fromright .ps-image img,
+.ps-3.ps-slide-fromright .ps-image img,
+.ps-6.ps-slide-fromright .ps-image img {
+  -webkit-animation: slide-top .4s linear 0.2s both;
+  -moz-animation: slide-top .4s linear 0.2s both;
+  -o-animation: slide-top .4s linear 0.2s both;
+  animation: slide-top .4s linear 0.2s both;
+}
+.ps-0.ps-slide-fromleft .ps-title,
+.ps-3.ps-slide-fromleft .ps-title,
+.ps-6.ps-slide-fromleft .ps-title {
+  -webkit-animation: slide-right .3s linear 0.5s both;
+  -moz-animation: slide-right .3s linear 0.5s both;
+  -o-animation: slide-right .3s linear 0.5s both;
+  animation: slide-right .3s linear 0.5s both;
+}
+.ps-0.ps-slide-fromleft .ps-intro,
+.ps-3.ps-slide-fromleft .ps-intro,
+.ps-6.ps-slide-fromleft .ps-intro {
+  -webkit-animation: slide-right .2s linear 1s both;
+  -moz-animation: slide-right .2s linear 1s both;
+  -o-animation: slide-right .2s linear 1s both;
+  animation: slide-right .2s linear 1s both;
+}
+.ps-0.ps-slide-fromleft .ps-readmore,
+.ps-3.ps-slide-fromleft .ps-readmore,
+.ps-6.ps-slide-fromleft .ps-readmore {
+  -webkit-animation: slide-right .1s linear 1.5s both;
+  -moz-animation: slide-right .1s linear 1.5s both;
+  -o-animation: slide-right .1s linear 1.5s both;
+  animation: slide-right .1s linear 1.5s both;
+}
+.ps-0.ps-slide-fromleft .ps-image img,
+.ps-3.ps-slide-fromleft .ps-image img,
+.ps-6.ps-slide-fromleft .ps-image img {
+  -webkit-animation: slide-bottom .4s linear 0.2s both;
+  -moz-animation: slide-bottom .4s linear 0.2s both;
+  -o-animation: slide-bottom .4s linear 0.2s both;
+  animation: slide-bottom .4s linear 0.2s both;
+}
+.ps-0.ps-slide-toleft .ps-title,
+.ps-3.ps-slide-toleft .ps-title,
+.ps-6.ps-slide-toleft .ps-title {
+  -webkit-animation: slide-left .3s linear 0.5s both;
+  -moz-animation: slide-left .3s linear 0.5s both;
+  -o-animation: slide-left .3s linear 0.5s both;
+  animation: slide-left .3s linear 0.5s both;
+}
+.ps-0.ps-slide-toleft .ps-intro,
+.ps-3.ps-slide-toleft .ps-intro,
+.ps-6.ps-slide-toleft .ps-intro {
+  -webkit-animation: slide-left .2s linear 1s both;
+  -moz-animation: slide-left .2s linear 1s both;
+  -o-animation: slide-left .2s linear 1s both;
+  animation: slide-left .2s linear 1s both;
+}
+.ps-0.ps-slide-toleft .ps-readmore,
+.ps-3.ps-slide-toleft .ps-readmore,
+.ps-6.ps-slide-toleft .ps-readmore {
+  -webkit-animation: slide-bottom .1s linear 1.5s both;
+  -moz-animation: slide-bottom .1s linear 1.5s both;
+  -o-animation: slide-bottom .1s linear 1.5s both;
+  animation: slide-bottom .1s linear 1.5s both;
+}
+.ps-0.ps-slide-toleft .ps-image img,
+.ps-3.ps-slide-toleft .ps-image img,
+.ps-6.ps-slide-toleft .ps-image img {
+  -webkit-animation: slide-top .4s linear 0.2s both;
+  -moz-animation: slide-top .4s linear 0.2s both;
+  -o-animation: slide-top .4s linear 0.2s both;
+  animation: slide-top .4s linear 0.2s both;
+}
+.ps-1.ps-slide-fromright .ps-title,
+.ps-4.ps-slide-fromright .ps-title,
+.ps-7.ps-slide-fromright .ps-title {
+  -webkit-animation: slide-top .3s linear 0.5s both;
+  -moz-animation: slide-top .3s linear 0.5s both;
+  -o-animation: slide-top .3s linear 0.5s both;
+  animation: slide-top .3s linear 0.5s both;
+}
+.ps-1.ps-slide-fromright .ps-intro,
+.ps-4.ps-slide-fromright .ps-intro,
+.ps-7.ps-slide-fromright .ps-intro {
+  -webkit-animation: slide-left .2s linear 1s both;
+  -moz-animation: slide-left .2s linear 1s both;
+  -o-animation: slide-left .2s linear 1s both;
+  animation: slide-left .2s linear 1s both;
+}
+.ps-1.ps-slide-fromright .ps-readmore,
+.ps-4.ps-slide-fromright .ps-readmore,
+.ps-7.ps-slide-fromright .ps-readmore {
+  -webkit-animation: slide-bottom .1s linear 1.5s both;
+  -moz-animation: slide-bottom .1s linear 1.5s both;
+  -o-animation: slide-bottom .1s linear 1.5s both;
+  animation: slide-bottom .1s linear 1.5s both;
+}
+.ps-1.ps-slide-fromright .ps-image img,
+.ps-4.ps-slide-fromright .ps-image img,
+.ps-7.ps-slide-fromright .ps-image img {
+  -webkit-animation: flipin-y .4s linear 0.2s both;
+  -moz-animation: flipin-y .4s linear 0.2s both;
+  -o-animation: flipin-y .4s linear 0.2s both;
+  animation: flipin-y .4s linear 0.2s both;
+}
+.ps-1.ps-slide-fromleft .ps-title,
+.ps-4.ps-slide-fromleft .ps-title,
+.ps-7.ps-slide-fromleft .ps-title {
+  -webkit-animation: slide-top .3s linear 0.5s both;
+  -moz-animation: slide-top .3s linear 0.5s both;
+  -o-animation: slide-top .3s linear 0.5s both;
+  animation: slide-top .3s linear 0.5s both;
+}
+.ps-1.ps-slide-fromleft .ps-intro,
+.ps-4.ps-slide-fromleft .ps-intro,
+.ps-7.ps-slide-fromleft .ps-intro {
+  -webkit-animation: slide-left .2s linear 1s both;
+  -moz-animation: slide-left .2s linear 1s both;
+  -o-animation: slide-left .2s linear 1s both;
+  animation: slide-left .2s linear 1s both;
+}
+.ps-1.ps-slide-fromleft .ps-readmore,
+.ps-4.ps-slide-fromleft .ps-readmore,
+.ps-7.ps-slide-fromleft .ps-readmore {
+  -webkit-animation: slide-bottom .1s linear 1.5s both;
+  -moz-animation: slide-bottom .1s linear 1.5s both;
+  -o-animation: slide-bottom .1s linear 1.5s both;
+  animation: slide-bottom .1s linear 1.5s both;
+}
+.ps-1.ps-slide-fromleft .ps-image img,
+.ps-4.ps-slide-fromleft .ps-image img,
+.ps-7.ps-slide-fromleft .ps-image img {
+  -webkit-animation: flipin-y .4s linear 0.2s both;
+  -moz-animation: flipin-y .4s linear 0.2s both;
+  -o-animation: flipin-y .4s linear 0.2s both;
+  animation: flipin-y .4s linear 0.2s both;
+}
+.ps-1.ps-slide-toleft .ps-title,
+.ps-4.ps-slide-toleft .ps-title,
+.ps-7.ps-slide-toleft .ps-title {
+  -webkit-animation: slide-bottom .3s linear 0.5s both;
+  -moz-animation: slide-bottom .3s linear 0.5s both;
+  -o-animation: slide-bottom .3s linear 0.5s both;
+  animation: slide-bottom .3s linear 0.5s both;
+}
+.ps-1.ps-slide-toleft .ps-intro,
+.ps-4.ps-slide-toleft .ps-intro,
+.ps-7.ps-slide-toleft .ps-intro {
+  -webkit-animation: slide-right .2s linear 1s both;
+  -moz-animation: slide-right .2s linear 1s both;
+  -o-animation: slide-right .2s linear 1s both;
+  animation: slide-right .2s linear 1s both;
+}
+.ps-1.ps-slide-toleft .ps-readmore,
+.ps-4.ps-slide-toleft .ps-readmore,
+.ps-7.ps-slide-toleft .ps-readmore {
+  -webkit-animation: slide-top .1s linear 1.5s both;
+  -moz-animation: slide-top .1s linear 1.5s both;
+  -o-animation: slide-top .1s linear 1.5s both;
+  animation: slide-top .1s linear 1.5s both;
+}
+.ps-1.ps-slide-toleft .ps-image img,
+.ps-4.ps-slide-toleft .ps-image img,
+.ps-7.ps-slide-toleft .ps-image img {
+  -webkit-animation: flipin-x .4s linear 0.2s both;
+  -moz-animation: flipin-x .4s linear 0.2s both;
+  -o-animation: flipin-x .4s linear 0.2s both;
+  animation: flipin-x .4s linear 0.2s both;
+}
+.ps-2.ps-slide-fromright .ps-title,
+.ps-5.ps-slide-fromright .ps-title,
+.ps-8.ps-slide-fromright .ps-title {
+  -webkit-animation: slide-right .3s linear 0.5s both;
+  -moz-animation: slide-right .3s linear 0.5s both;
+  -o-animation: slide-right .3s linear 0.5s both;
+  animation: slide-right .3s linear 0.5s both;
+}
+.ps-2.ps-slide-fromright .ps-intro,
+.ps-5.ps-slide-fromright .ps-intro,
+.ps-8.ps-slide-fromright .ps-intro {
+  -webkit-animation: slide-left .2s linear 1s both;
+  -moz-animation: slide-left .2s linear 1s both;
+  -o-animation: slide-left .2s linear 1s both;
+  animation: slide-left .2s linear 1s both;
+}
+.ps-2.ps-slide-fromright .ps-readmore,
+.ps-5.ps-slide-fromright .ps-readmore,
+.ps-8.ps-slide-fromright .ps-readmore {
+  -webkit-animation: slide-bottom .1s linear 1.5s both;
+  -moz-animation: slide-bottom .1s linear 1.5s both;
+  -o-animation: slide-bottom .1s linear 1.5s both;
+  animation: slide-bottom .1s linear 1.5s both;
+}
+.ps-2.ps-slide-fromright .ps-image img,
+.ps-5.ps-slide-fromright .ps-image img,
+.ps-8.ps-slide-fromright .ps-image img {
+  -webkit-animation: scale-up .4s linear 0.2s both;
+  -moz-animation: scale-up .4s linear 0.2s both;
+  -o-animation: scale-up .4s linear 0.2s both;
+  animation: scale-up .4s linear 0.2s both;
+}
+.ps-2.ps-slide-fromleft .ps-title,
+.ps-5.ps-slide-fromleft .ps-title,
+.ps-8.ps-slide-fromleft .ps-title {
+  -webkit-animation: slide-right .3s linear 0.5s both;
+  -moz-animation: slide-right .3s linear 0.5s both;
+  -o-animation: slide-right .3s linear 0.5s both;
+  animation: slide-right .3s linear 0.5s both;
+}
+.ps-2.ps-slide-fromleft .ps-intro,
+.ps-5.ps-slide-fromleft .ps-intro,
+.ps-8.ps-slide-fromleft .ps-intro {
+  -webkit-animation: slide-left .2s linear 1s both;
+  -moz-animation: slide-left .2s linear 1s both;
+  -o-animation: slide-left .2s linear 1s both;
+  animation: slide-left .2s linear 1s both;
+}
+.ps-2.ps-slide-fromleft .ps-readmore,
+.ps-5.ps-slide-fromleft .ps-readmore,
+.ps-8.ps-slide-fromleft .ps-readmore {
+  -webkit-animation: slide-bottom .1s linear 1.5s both;
+  -moz-animation: slide-bottom .1s linear 1.5s both;
+  -o-animation: slide-bottom .1s linear 1.5s both;
+  animation: slide-bottom .1s linear 1.5s both;
+}
+.ps-2.ps-slide-fromleft .ps-image img,
+.ps-5.ps-slide-fromleft .ps-image img,
+.ps-8.ps-slide-fromleft .ps-image img {
+  -webkit-animation: scale-up .4s linear 0.2s both;
+  -moz-animation: scale-up .4s linear 0.2s both;
+  -o-animation: scale-up .4s linear 0.2s both;
+  animation: scale-up .4s linear 0.2s both;
+}

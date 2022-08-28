@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>mFisheries Podcast</title>
+		<description><![CDATA[]]></description>
+		<link>http://localhost:8080/mfweb/index.php/media-library/download?view=featured</link>
+		<lastBuildDate>Sun, 28 Aug 2022 02:02:39 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://localhost:8080/mfweb/index.php/media-library/download?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>mFisheries Podcast</title>
+			<link>http://localhost:8080/mfweb/index.php/media-library/download/23-download/14-download</link>
+			<guid isPermaLink="true">http://localhost:8080/mfweb/index.php/media-library/download/23-download/14-download</guid>
+			<description><![CDATA[<div class="feed-description"><p>mFisheries Safety at Sea Podcasts were designed by the Distance Learning Secretariat, Ministry of Science and Technology in collaboration with the Ministry of Planning and Sustainable Development in 2009.</p></div>]]></description>
+			<author>rishmahansil@gmail.com (Rishma)</author>
+			<category>Featured</category>
+			<category>Podcasts</category>
+			<pubDate>Mon, 19 May 2014 15:06:02 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

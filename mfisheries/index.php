@@ -1,1 +1,0 @@
-Database connection error (1): The MySQL adapter 'mysql' is not available.

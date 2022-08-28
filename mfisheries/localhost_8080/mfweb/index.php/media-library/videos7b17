@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Videos</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://localhost:8080"/>
+	<id>http://localhost:8080/mfweb/index.php/media-library/videos</id>
+	<updated>2022-08-28T02:02:43+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://localhost:8080/mfweb/index.php/media-library/videos?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Videos</title>
+		<link rel="alternate" type="text/html" href="http://localhost:8080/mfweb/index.php/media-library/videos/26-videos/23-videos"/>
+		<published>2014-05-29T20:47:08+00:00</published>
+		<updated>2014-05-29T20:47:08+00:00</updated>
+		<id>http://localhost:8080/mfweb/index.php/media-library/videos/26-videos/23-videos</id>
+		<author>
+			<name>Rishma</name>
+			<email>rishmahansil@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Introduction to mFisheries :&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;&quot;&gt;{mp4}MFisheries-Introduction{/mp4} &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;&quot;&gt;mFisheries 2.0 :&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;&quot;&gt;&lt;span style=&quot;font-family: arial, sans, sans-serif; font-size: 12px; line-height: normal;&quot;&gt;{youtube}&lt;/span&gt;dasTL7NKCkY&lt;span style=&quot;font-family: arial, sans, sans-serif; font-size: 12px; line-height: normal;&quot;&gt;{/youtube}&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;&quot;&gt;&lt;span style=&quot;font-family: arial, sans, sans-serif; font-size: 12px; line-height: normal;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;&quot;&gt;&lt;span style=&quot;font-family: arial, sans, sans-serif; font-size: 12px; line-height: normal;&quot;&gt;mFisheries Safety at Sea :&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;&quot;&gt;&lt;span style=&quot;font-family: arial, sans, sans-serif; font-size: 12px; line-height: normal;&quot;&gt;&lt;span&gt;{youtube}0gkMesN0AQw&lt;/span&gt;&lt;span&gt;{/youtube}&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;&quot;&gt;&lt;span style=&quot;font-family: arial, sans, sans-serif; font-size: 12px; line-height: normal;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Introduction to mFisheries :&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;&quot;&gt;{mp4}MFisheries-Introduction{/mp4} &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;&quot;&gt;mFisheries 2.0 :&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;&quot;&gt;&lt;span style=&quot;font-family: arial, sans, sans-serif; font-size: 12px; line-height: normal;&quot;&gt;{youtube}&lt;/span&gt;dasTL7NKCkY&lt;span style=&quot;font-family: arial, sans, sans-serif; font-size: 12px; line-height: normal;&quot;&gt;{/youtube}&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;&quot;&gt;&lt;span style=&quot;font-family: arial, sans, sans-serif; font-size: 12px; line-height: normal;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;&quot;&gt;&lt;span style=&quot;font-family: arial, sans, sans-serif; font-size: 12px; line-height: normal;&quot;&gt;mFisheries Safety at Sea :&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;&quot;&gt;&lt;span style=&quot;font-family: arial, sans, sans-serif; font-size: 12px; line-height: normal;&quot;&gt;&lt;span&gt;{youtube}0gkMesN0AQw&lt;/span&gt;&lt;span&gt;{/youtube}&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;color: #000000; font-family: 'PT Sans', sans-serif; font-size: 14px; line-height: 18px;&quot;&gt;&lt;span style=&quot;font-family: arial, sans, sans-serif; font-size: 12px; line-height: normal;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="Videos" />
+	</entry>
+</feed>

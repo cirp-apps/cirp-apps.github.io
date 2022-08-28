@@ -1,0 +1,78 @@
+@import "../../../modules/mod_xperttabs/assets/css/common.html";
+.txtabs-nav {
+  float: left;
+  position: relative;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+.txtabs-nav li {
+  float: none;
+  padding: 0;
+  position: relative;
+}
+.txtabs-nav li+li {
+  margin-top: 10px;
+}
+.txtabs-nav li a {
+  color: #fff;
+  font-weight: normal;
+  font-size: 14px;
+}
+.txtabs-nav li a:hover {
+  background: rgba(255,255,255,0.1);
+  border-radius: 30px;
+}
+.txtabs-nav li.active a {
+  border-radius: 30px;
+}
+.txtabs-nav li.active:before {
+  position: absolute;
+  top: 16px;
+  left: -10px;
+  display: block;
+  width: 10px;
+  height: 1px;
+  background-color: #FFF;
+  content: "";
+}
+.txtabs-nav li:after {
+  position: absolute;
+  top: 7px;
+  left: -32px;
+  color: #FFF;
+  content: "\f10c";
+  font-family: fontawesome;
+  border: 1px solid;
+  border-radius: 100%;
+  width: 13px;
+  padding: 0 4px;
+}
+.txtabs-nav li.active:after {
+  position: absolute;
+  top: 7px;
+  left: -32px;
+  color: #FFF;
+  content: "\f111";
+  font-family: fontawesome;
+}
+.txtabs-nav li a {
+  border: 1px solid transparent;
+  display: inline-block;
+}
+.txtabs-nav li.active a {
+  border-color: #fff;
+  display: inline-block;
+}
+.txtabs-nav li.active a,
+.txtabs-nav li a:hover {
+  color: #fff;
+}
+.txtabs-pane h2 {
+  margin-bottom: 25px;
+}
+.txtabs-pane .txtabs-readon {
+  margin-top: 30px;
+}
+.txtabs-pane-in {
+  color: #fff;
+}

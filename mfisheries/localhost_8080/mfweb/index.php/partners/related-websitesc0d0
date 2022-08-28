@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Related Websites</title>
+		<description><![CDATA[]]></description>
+		<link>http://localhost:8080/mfweb/index.php/partners/related-websites?view=featured</link>
+		<lastBuildDate>Sun, 28 Aug 2022 02:02:57 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://localhost:8080/mfweb/index.php/partners/related-websites?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Related Websites</title>
+			<link>http://localhost:8080/mfweb/index.php/partners/related-websites/21-related-websites/13-related-websites</link>
+			<guid isPermaLink="true">http://localhost:8080/mfweb/index.php/partners/related-websites/21-related-websites/13-related-websites</guid>
+			<description><![CDATA[<div class="feed-description"><h1 style="padding: 0px; font-size: 1.5em; font-weight: normal; vertical-align: bottom; color: #004f8f; width: 734px;">Seafood Industry Developoment Company</h1>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;">Main website: <a href="http://www.sidctt.com/" style="color: #135cae;"><span style="text-decoration: underline;"><span style="color: #0066cc;">http://www.sidctt.com/</span></span></a></p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;">Facebook page: <a href="http://www.facebook.com/pages/Seafood-Industry-Development-Company-Limited-SIDC/235904436504314" style="color: #135cae;"><span style="text-decoration: underline;"><span style="color: #0066cc;">http://www.facebook.com/pages/Seafood-Industry-Development-Company-Limited-SIDC/235904436504314</span></span></a></p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"> </p>
+<h1 style="padding: 0px; font-size: 1.5em; font-weight: normal; vertical-align: bottom; color: #004f8f; width: 734px;">Trinidad and Tobago Meteorological Services</h1>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"><a href="http://www.metoffice.gov.tt/" style="color: #135cae;"><span style="text-decoration: underline;"><span style="color: #0066cc;">http://www.metoffice.gov.tt/</span></span></a></p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"> </p>
+<h1 style="padding: 0px; font-size: 1.5em; font-weight: normal; vertical-align: bottom; color: #004f8f; width: 734px;">The National Agricultural Marketing and Development Corporation (NAMDEVCO)</h1>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"><a href="http://www.namdevco.com/" style="color: #135cae;">http://www.namdevco.com/</a></p>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"> </p>
+<h1 style="padding: 0px; font-size: 1.5em; font-weight: normal; vertical-align: bottom; color: #004f8f; width: 734px;">The National Agricultural Marketing and Development Corporation (NAMIS)</h1>
+<p style="margin-bottom: 10px; line-height: 15.6pt; font-size: 10pt; font-family: Arial;"><a href="http://www.namistt.com/" style="color: #135cae;">http://www.namistt.com/</a></p></div>]]></description>
+			<author>rishmahansil@gmail.com (Rishma)</author>
+			<category>Featured</category>
+			<category>Related Websites</category>
+			<pubDate>Thu, 15 May 2014 14:32:39 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

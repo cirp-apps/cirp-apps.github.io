@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Research Problem</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://localhost:8080"/>
+	<id>http://localhost:8080/mfweb/index.php/about/research-problem</id>
+	<updated>2022-08-28T01:59:47+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://localhost:8080/mfweb/index.php/about/research-problem?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Research Problem</title>
+		<link rel="alternate" type="text/html" href="http://localhost:8080/mfweb/index.php/about/research-problem/10-uncategorised/research-problem/3-research-problem"/>
+		<published>2014-05-14T05:57:50+00:00</published>
+		<updated>2014-05-14T05:57:50+00:00</updated>
+		<id>http://localhost:8080/mfweb/index.php/about/research-problem/10-uncategorised/research-problem/3-research-problem</id>
+		<author>
+			<name>Rishma</name>
+			<email>rishmahansil@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 10pt; line-height: 15.6pt;&quot;&gt;&lt;img src=&quot;images/BannerIslands.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 10pt; line-height: 15.6pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;The empirical questions central to the overall mFisheries research exercises are:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;ol style=&quot;font-family: Helvetica, Arial, sans-serif;&quot;&gt;
+&lt;li style=&quot;margin-bottom: 5px;&quot;&gt;
+&lt;p&gt;How can the ubiquitous mobile phone be used to solve known inefficiencies in communications which impose unnecessary limitations in earning capacity and social development among low income Caribbean earners?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li style=&quot;margin-bottom: 5px;&quot;&gt;
+&lt;p&gt;How can Caribbean capacity be built to engage communities of low income earners in order to collaboratively design, develop, deploy and evaluate applicable mobile solutions?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Very many subsidiary research questions flow from these overarching ones. These include: How could mobile technology be used to support and sustain a human network within the &lt;strong&gt;small-scale fishing sector&lt;/strong&gt;? How could data relevant to the community of interest inform the design of mobile applications to improve livelihoods through increased economic activity and efficiency at the bottom of the pyramid? How could the mobile phone be used to indulge best practices and encourage cycles of use in the small-scale fishing sector?&lt;/p&gt;
+&lt;p&gt;Prior to November 2009, reports conducted randomly within the fishing sector by various interest groups, although insufficiently benchmarked, have suggested that the penetration of the mobile phone among local fisher folk has been very high.&lt;/p&gt;
+&lt;p&gt;Even though a rise in technology use and mobile penetration in Trinidad and Tobago has been evident, there exists little by way of case study resources, documented methodology and process mapping. This has hindered the capability of policy-makers and stakeholders to make transformational changes and to develop informed frameworks within which various telecommunications opportunities can be harnessed for the development of the sector.&lt;/p&gt;
+&lt;p&gt;To a large extent, the &lt;strong&gt;m-Fisheries&lt;/strong&gt; research project has arisen from the dearth of reliable and relevant quantitative and qualitative data regarding the small-scale fishing industry and ICT indicators on the usage and impact of mobile communication services on human and economic development in the low-income Caribbean. mFisheries applies and documents greater richness and uniformity in the gathering and analysis of empirical data. It also demonstrates application of the knowledge so gained, to the design, development and deployment of innovative mobile solutions for small scale fisher folk in Trinidad and Tobago.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/Anchor Pin 200 by 200.png&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 10pt; line-height: 15.6pt;&quot;&gt;&lt;img src=&quot;images/BannerIslands.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-size: 10pt; line-height: 15.6pt;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt;The empirical questions central to the overall mFisheries research exercises are:&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;line-height: 1.3em;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;ol style=&quot;font-family: Helvetica, Arial, sans-serif;&quot;&gt;
+&lt;li style=&quot;margin-bottom: 5px;&quot;&gt;
+&lt;p&gt;How can the ubiquitous mobile phone be used to solve known inefficiencies in communications which impose unnecessary limitations in earning capacity and social development among low income Caribbean earners?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li style=&quot;margin-bottom: 5px;&quot;&gt;
+&lt;p&gt;How can Caribbean capacity be built to engage communities of low income earners in order to collaboratively design, develop, deploy and evaluate applicable mobile solutions?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Very many subsidiary research questions flow from these overarching ones. These include: How could mobile technology be used to support and sustain a human network within the &lt;strong&gt;small-scale fishing sector&lt;/strong&gt;? How could data relevant to the community of interest inform the design of mobile applications to improve livelihoods through increased economic activity and efficiency at the bottom of the pyramid? How could the mobile phone be used to indulge best practices and encourage cycles of use in the small-scale fishing sector?&lt;/p&gt;
+&lt;p&gt;Prior to November 2009, reports conducted randomly within the fishing sector by various interest groups, although insufficiently benchmarked, have suggested that the penetration of the mobile phone among local fisher folk has been very high.&lt;/p&gt;
+&lt;p&gt;Even though a rise in technology use and mobile penetration in Trinidad and Tobago has been evident, there exists little by way of case study resources, documented methodology and process mapping. This has hindered the capability of policy-makers and stakeholders to make transformational changes and to develop informed frameworks within which various telecommunications opportunities can be harnessed for the development of the sector.&lt;/p&gt;
+&lt;p&gt;To a large extent, the &lt;strong&gt;m-Fisheries&lt;/strong&gt; research project has arisen from the dearth of reliable and relevant quantitative and qualitative data regarding the small-scale fishing industry and ICT indicators on the usage and impact of mobile communication services on human and economic development in the low-income Caribbean. mFisheries applies and documents greater richness and uniformity in the gathering and analysis of empirical data. It also demonstrates application of the knowledge so gained, to the design, development and deployment of innovative mobile solutions for small scale fisher folk in Trinidad and Tobago.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/Anchor Pin 200 by 200.png&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="Research Problem" />
+		<category term="Uncategorised" />
+	</entry>
+</feed>

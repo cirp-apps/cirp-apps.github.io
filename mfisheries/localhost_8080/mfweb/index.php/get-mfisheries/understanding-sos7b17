@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Understanding SOS</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://localhost:8080"/>
+	<id>http://localhost:8080/mfweb/index.php/get-mfisheries/understanding-sos</id>
+	<updated>2022-08-28T02:01:46+00:00</updated>
+	<generator uri="http://joomla.org" version="2.5">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://localhost:8080/mfweb/index.php/get-mfisheries/understanding-sos?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Understanding SOS</title>
+		<link rel="alternate" type="text/html" href="http://localhost:8080/mfweb/index.php/get-mfisheries/understanding-sos/19-understanding-sos/11-understanding-sos"/>
+		<published>2014-05-15T13:06:15+00:00</published>
+		<updated>2014-05-15T13:06:15+00:00</updated>
+		<id>http://localhost:8080/mfweb/index.php/get-mfisheries/understanding-sos/19-understanding-sos/11-understanding-sos</id>
+		<author>
+			<name>Rishma</name>
+			<email>rishmahansil@gmail.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;mFisheries SOS application icon can be found on the mFisheries home screen.&lt;br /&gt;In the event of an emergency please press down on the SOS button to to launch the application. Select the &quot;CONFIRM&quot; button to initiate the SOS distress call.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/Screen Shot 2014-05-15 at 9.04.14 AM.png&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;After the SOS button has been pressed a timer will begin to count down. If you have selected the SOS button accidentally, you can cancel the call by tapping on the &quot;CANCEL&quot; button to the top of the screen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/Screen Shot 2014-05-15 at 9.04.28 AM.png&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Once the timer has counted down an SMS message will be sent to those on your emergency contact list, an email will be sent to the Trinidad and Tobago Coast Guard along with a pop up notification of your location.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/Screen Shot 2014-05-15 at 9.04.37 AM.png&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;The following image shows the message which will be received by the Trinidad and Tobago Coast Guard and the emergency contacts specified by the user.&lt;br /&gt;The message indicated the longitude, latitude, direction, date and time at the moment the message was sent.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/Screen Shot 2014-05-15 at 9.04.45 AM.png&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;mFisheries SOS application icon can be found on the mFisheries home screen.&lt;br /&gt;In the event of an emergency please press down on the SOS button to to launch the application. Select the &quot;CONFIRM&quot; button to initiate the SOS distress call.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/Screen Shot 2014-05-15 at 9.04.14 AM.png&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;After the SOS button has been pressed a timer will begin to count down. If you have selected the SOS button accidentally, you can cancel the call by tapping on the &quot;CANCEL&quot; button to the top of the screen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/Screen Shot 2014-05-15 at 9.04.28 AM.png&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;Once the timer has counted down an SMS message will be sent to those on your emergency contact list, an email will be sent to the Trinidad and Tobago Coast Guard along with a pop up notification of your location.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/Screen Shot 2014-05-15 at 9.04.37 AM.png&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;The following image shows the message which will be received by the Trinidad and Tobago Coast Guard and the emergency contacts specified by the user.&lt;br /&gt;The message indicated the longitude, latitude, direction, date and time at the moment the message was sent.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/Screen Shot 2014-05-15 at 9.04.45 AM.png&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Featured" />
+		<category term="Understanding SOS" />
+	</entry>
+</feed>
