@@ -7,10 +7,10 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Caribbean ICT Research Programme &lsaquo; Log In</title>
 	<link rel="dns-prefetch" href="//s.w.org">
-<script type="text/javascript" src="./wp-admin/load-scripts.php?c=0&amp;load%5B%5D=jquery-core,jquery-migrate&amp;ver=4.7.23"></script>
-<script type="text/javascript" src="./wp-content/plugins/responsive-header-image-slider/js/jquery.slides.min.js?ver=4.7.23"></script>
-<link rel="stylesheet" href="./wp-admin/load-styles.php?c=0&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.7.23" type="text/css" media="all">
-<link rel="stylesheet" id="respslidercss-css" href="./wp-content/plugins/responsive-header-image-slider/css/responsiveimgslider.css?ver=4.7.23" type="text/css" media="all">
+<script type="text/javascript" src="./wp-admin/load-scripts.php?c=0&amp;load%5B%5D=jquery-core,jquery-migrate&amp;ver=4.7.24"></script>
+<script type="text/javascript" src="./wp-content/plugins/responsive-header-image-slider/js/jquery.slides.min.js?ver=4.7.24"></script>
+<link rel="stylesheet" href="./wp-admin/load-styles.php?c=0&amp;dir=ltr&amp;load%5B%5D=dashicons,buttons,forms,l10n,login&amp;ver=4.7.24" type="text/css" media="all">
+<link rel="stylesheet" id="respslidercss-css" href="./wp-content/plugins/responsive-header-image-slider/css/responsiveimgslider.css?ver=4.7.24" type="text/css" media="all">
 	<meta name="robots" content="noindex,noarchive">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">

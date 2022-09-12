@@ -7,12 +7,12 @@
 	>
 <channel>
 	<title>Comments on: mFisheries 2.0 in Tobago</title>
-	<atom:link href="http://localhost/cirpwp/mfisheries-2-0-in-tobago/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
 	<lastBuildDate>Mon, 05 May 2014 19:34:53 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.23</generator>
+	<generator>https://wordpress.org/?v=4.7.24</generator>
 </channel>
 </rss>
